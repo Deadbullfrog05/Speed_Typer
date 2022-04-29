@@ -1,4 +1,4 @@
 # Speed_Typer
 
 A typing game that helps users improve their typing speed and accuracy by fetching random words from an API using an intuitive UI.
-Link to the live project:- https://race-type.netlify.app/
+<br>Link to the live project:- https://race-type.netlify.app/
