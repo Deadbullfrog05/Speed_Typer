@@ -88,7 +88,7 @@ function matchWords() {
 // Pick & show random word
 function showWord() {
   // Call an API to get random words
-  fetch('https://random-words-api.vercel.app/word', {
+  fetch('https://random-words-api-three.vercel.app/word', {
       method: 'GET',
       headers: {
         accept: 'application/json',
